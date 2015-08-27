@@ -1,0 +1,28 @@
+{
+  "name": "jquery.charcounter.js",
+  "main": "jquery.charcounter.js",
+  "version": "1.2",
+  "homepage": "http://www.tomdeater.com/jquery/character_counter/",
+  "authors": [
+    "Tom Deater <www@tomdeater.com>"
+  ],
+  "description": "a simple character counter for textarea elements",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "charcounter"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.2"
+  }
+}
